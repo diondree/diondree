@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on launching a development agency [Dewebgineer Solutions](https://dewebgineer.com)
+- 🔭 I’m currently building my Freelance Practice
 - 🌱 I’m currently learning Next.js and SSR React
 - 💬 Ask me about React and Freelance work
 - 📫 How to reach me: diondredev@gmail.com
